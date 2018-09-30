@@ -60,8 +60,8 @@ def store_sentence_pos_ner_dict():
 		f.close()
 
 # Load Google pretrained word2vec
-model = gensim.models.Word2Vec.load_word2vec_format('../resource/GoogleNews-vectors-negative300.bin', binary=True)
-#model = gensim.models.Word2Vec.load_word2vec_format('../resource/glove.840B.300d.w2vformat.txt', binary=False)
+model = gensim.models.Word2Vec.load_word2vec_format('./resource/GoogleNews-vectors-negative300.bin', binary=True)
+#model = gensim.models.Word2Vec.load_word2vec_format('./resource/glove.840B.300d.w2vformat.txt', binary=False)
 
 '''stanford_dir = '../resource/stanford-postagger-2016-10-31/'
 modelfile = stanford_dir + 'models/english-left3words-distsim.tagger'
