@@ -33,12 +33,12 @@ with open('./dataset/MASC_Wikipedia/train_test_split.csv','r') as f:
 
 # Load stored pos/ner parsing sentence
 sentence_pos_ner_dict = {}
-with open('../resource/masc_sentence_pos_ner_dict.pkl','r') as f:
+with open('./resource/masc_sentence_pos_ner_dict.pkl','r') as f:
 	sentence_pos_ner_dict = cPickle.load(f)
 	f.close()
 
 connective_list = []
-with open('../resource/explicit_connective.txt','r') as f:
+with open('./resource/explicit_connective.txt','r') as f:
 	for line in f.readlines():
 		connective_list.append(line.strip())
 	connective_list = tuple(connective_list)
@@ -63,7 +63,7 @@ def store_sentence_pos_ner_dict():
 model = gensim.models.Word2Vec.load_word2vec_format('../resource/GoogleNews-vectors-negative300.bin', binary=True)
 #model = gensim.models.Word2Vec.load_word2vec_format('../resource/glove.840B.300d.w2vformat.txt', binary=False)
 
-stanford_dir = '../resource/stanford-postagger-2016-10-31/'
+'''stanford_dir = '../resource/stanford-postagger-2016-10-31/'
 modelfile = stanford_dir + 'models/english-left3words-distsim.tagger'
 jarfile = stanford_dir + 'stanford-postagger.jar'
 pos_tager = StanfordPOSTagger(modelfile, jarfile, encoding='utf8')
@@ -75,7 +75,7 @@ modelfile = stanford_dir + 'classifiers/english.muc.7class.distsim.crf.ser.gz'
 jarfile = stanford_dir + 'stanford-ner.jar'
 ner_tager = StanfordNERTagger(modelfile, jarfile, encoding='utf8')
 #print ner_tager.tag("In Jan. 5, Brack Obama lives in New York at 5:20 .".split())
-#print ner_tager.tag(nltk.word_tokenize("Assets of the 400 taxable funds grew by $1.5 billion during the latest week, to $352.7 billion."))
+#print ner_tager.tag(nltk.word_tokenize("Assets of the 400 taxable funds grew by $1.5 billion during the latest week, to $352.7 billion."))'''
 
 vocab={}
 def unknown_words(word,k=300):
@@ -319,5 +319,5 @@ print 'connective count: ' + str(connective_count)
 print 'connective percentage: ' + str(connective_count*1.0 / clause_count)
 store_sentence_pos_ner_dict()
 
-#with open('data/masc_paragraph_addposnerembedding_dictformat.pt','w+') as outfile:
-#	torch.save(masc_data,outfile)
+with open('data/masc_paragraph_addposnerembedding_dictformat.pt','w+') as outfile:
+	torch.save(masc_data,outfile)
