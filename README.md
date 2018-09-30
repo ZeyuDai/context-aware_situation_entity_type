@@ -30,3 +30,4 @@ torch == 0.3.0<br/>
 nltk >= 3.2.2<br/>
 gensim >= 0.13.2<br/>
 numpy >= 1.13.1<br/>
+beautifulsoup4 >= 4.6.0<br/>
