@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="wiki_sunflower.txt_1" begin="0" end="26">
+    <text>Helianthus L. (sunflower)</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_2" begin="27" end="47">
+    <text>is a genus of plants</text>
+    <mainVerb begin="27" end="29">is</mainVerb>
+    <mainReferent begin="11" end="13">L.</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_3" begin="48" end="101">
+    <text>comprising about 52 species in the Asteraceae family,</text>
+    <mainVerb begin="48" end="58">comprising</mainVerb>
+    <mainReferent begin="41" end="47">plants</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_4" begin="102" end="143">
+    <text>all of which are native to North America.</text>
+    <mainVerb begin="115" end="118">are</mainVerb>
+    <mainReferent begin="102" end="105">all</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_5" begin="145" end="234">
+    <text>The common name "sunflower" also applies to the popular annual species Helianthus annuus.</text>
+    <mainVerb begin="178" end="185">applies</mainVerb>
+    <mainReferent begin="162" end="171">sunflower</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_6" begin="235" end="302">
+    <text>This and other species, notably Jerusalem artichoke (H. tuberosus),</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_7" begin="303" end="375">
+    <text>are cultivated in temperate regions as food crops and ornamental plants.</text>
+    <mainVerb begin="307" end="317">cultivated</mainVerb>
+    <mainReferent begin="250" end="257">species</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_8" begin="377" end="419">
+    <text>The genus is one of many in the Asteraceae</text>
+    <mainVerb begin="387" end="389">is</mainVerb>
+    <mainReferent begin="381" end="386">genus</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_9" begin="420" end="449">
+    <text>that are known as sunflowers.</text>
+    <mainVerb begin="429" end="434">known</mainVerb>
+    <mainReferent begin="397" end="401">many</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_10" begin="450" end="493">
+    <text>It is distinguished technically by the fact</text>
+    <mainVerb begin="453" end="455">is</mainVerb>
+    <mainReferent begin="450" end="452">It</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_11" begin="494" end="594">
+    <text>that the ray flowers, when present, are sterile, and by the presence on the disk flowers of a pappus</text>
+    <mainVerb begin="530" end="533">are</mainVerb>
+    <mainReferent begin="507" end="514">flowers</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_12" begin="595" end="625">
+    <text>that is of two awn-like scales</text>
+    <mainVerb begin="600" end="602">is</mainVerb>
+    <mainReferent begin="588" end="594">pappus</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_13" begin="626" end="644">
+    <text>that are cauducous</text>
+    <mainVerb begin="631" end="634">are</mainVerb>
+    <mainReferent begin="619" end="625">scales</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_14" begin="645" end="696">
+    <text>(that is, easily detached and falling at maturity).</text>
+    <mainVerb begin="651" end="653">is</mainVerb>
+    <mainReferent begin="646" end="650">that</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_15" begin="697" end="760">
+    <text>Some species also have additional shorter scales in the pappus,</text>
+    <mainVerb begin="715" end="719">have</mainVerb>
+    <mainReferent begin="702" end="709">species</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_16" begin="761" end="785">
+    <text>and there is one species</text>
+    <mainVerb begin="771" end="773">is</mainVerb>
+    <mainReferent begin="702" end="709">species</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_17" begin="786" end="815">
+    <text>that lacks a pappus entirely.</text>
+    <mainVerb begin="791" end="796">lacks</mainVerb>
+    <mainReferent begin="778" end="785">species</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_18" begin="816" end="885">
+    <text>Another technical feature that distinguishes the genus more reliably,</text>
+    <mainVerb begin="847" end="860">distinguishes</mainVerb>
+    <mainReferent begin="834" end="841">feature</mainReferent>
+    <annotation annotator="gold" seType="GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_19" begin="886" end="919">
+    <text>but requires a microscope to see,</text>
+    <mainVerb begin="890" end="898">requires</mainVerb>
+    <mainReferent begin="834" end="841">feature</mainReferent>
+    <annotation annotator="gold" seType="GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_20" begin="920" end="1001">
+    <text>is the presence of a prominent, multicellular appendage at the apex of the style.</text>
+    <mainVerb begin="920" end="922">is</mainVerb>
+    <mainReferent begin="834" end="841">feature</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_21" begin="1003" end="1066">
+    <text>There is quite a bit of variability among the perennial species</text>
+    <mainVerb begin="1009" end="1011">is</mainVerb>
+    <mainReferent begin="1020" end="1023">bit</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_22" begin="1067" end="1117">
+    <text>that make up the bulk of the species in the genus.</text>
+    <mainVerb begin="1072" end="1076">make</mainVerb>
+    <mainReferent begin="1059" end="1066">species</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_23" begin="1118" end="1197">
+    <text>Some have most or all of the large leaves in a rosette at the base of the plant</text>
+    <mainVerb begin="1123" end="1127">have</mainVerb>
+    <mainReferent begin="1118" end="1122">Some</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_24" begin="1198" end="1226">
+    <text>and produce a flowering stem</text>
+    <mainVerb begin="1202" end="1209">produce</mainVerb>
+    <mainReferent begin="1118" end="1122">Some</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC:NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_25" begin="1227" end="1242">
+    <text>that has leaves</text>
+    <mainVerb begin="1232" end="1235">has</mainVerb>
+    <mainReferent begin="1222" end="1226">stem</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_26" begin="1243" end="1268">
+    <text>that are reduced in size.</text>
+    <mainVerb begin="1252" end="1259">reduced</mainVerb>
+    <mainReferent begin="1236" end="1242">leaves</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_27" begin="1269" end="1309">
+    <text>Most of the perennials have disk flowers</text>
+    <mainVerb begin="1292" end="1296">have</mainVerb>
+    <mainReferent begin="1269" end="1273">Most</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_28" begin="1310" end="1335">
+    <text>that are entirely yellow,</text>
+    <mainVerb begin="1315" end="1318">are</mainVerb>
+    <mainReferent begin="1302" end="1309">flowers</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_29" begin="1336" end="1383">
+    <text>but a few have disk flowers with reddish lobes.</text>
+    <mainVerb begin="1346" end="1350">have</mainVerb>
+    <mainReferent begin="1269" end="1273">Most</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_30" begin="1384" end="1437">
+    <text>One species, H. radula, lacks ray flowers altogether.</text>
+    <mainVerb begin="1408" end="1413">lacks</mainVerb>
+    <mainReferent begin="1388" end="1395">species</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_31" begin="1439" end="1515">
+    <text>The domesticated sunflower, Helianthus annuus, is the most familiar species.</text>
+    <mainVerb begin="1486" end="1488">is</mainVerb>
+    <mainReferent begin="1456" end="1465">sunflower</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_32" begin="1516" end="1614">
+    <text>Perennial sunflower species are not as popular for gardens due to their tendency to spread rapidly</text>
+    <mainVerb begin="1544" end="1547">are</mainVerb>
+    <mainReferent begin="1536" end="1543">species</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_33" begin="1615" end="1635">
+    <text>and become invasive.</text>
+    <mainVerb begin="1619" end="1625">become</mainVerb>
+    <mainReferent begin="1588" end="1596">tendency</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_34" begin="1636" end="1726">
+    <text>Whorled sunflowers, Helianthus verticillatus, were listed as an endangered species in 2014</text>
+    <mainVerb begin="1687" end="1693">listed</mainVerb>
+    <mainReferent begin="1644" end="1654">sunflowers</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_35" begin="1727" end="1786">
+    <text>when the U.S. Fish and Wildlife Service issued a final rule</text>
+    <mainVerb begin="1767" end="1773">issued</mainVerb>
+    <mainReferent begin="1741" end="1745">Fish</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_36" begin="1787" end="1834">
+    <text>protecting it under the Endangered Species Act.</text>
+    <mainVerb begin="1787" end="1797">protecting</mainVerb>
+    <mainReferent begin="1782" end="1786">rule</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_37" begin="1835" end="1935">
+    <text>The primary threats are industrial forestry and pine plantations in Alabama, Georgia, and Tennessee.</text>
+    <mainVerb begin="1855" end="1858">are</mainVerb>
+    <mainReferent begin="1847" end="1854">threats</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_38" begin="1936" end="1962">
+    <text>They grow to six feet tall</text>
+    <mainVerb begin="1941" end="1945">grow</mainVerb>
+    <mainReferent begin="1936" end="1940">They</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC:NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_39" begin="1963" end="2050">
+    <text>and are primarily found in woodlands, adjacent to creeks and moist, prairie-like areas.</text>
+    <mainVerb begin="1981" end="1986">found</mainVerb>
+    <mainReferent begin="1936" end="1940">They</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC:NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_40" begin="2052" end="2067">
+    <text>==Description==</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_41" begin="2068" end="2141">
+    <text>These are usually tall annuals, growing to a height of 50-390 or more cm.</text>
+    <mainVerb begin="2074" end="2077">are</mainVerb>
+    <mainReferent begin="2068" end="2073">These</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_42" begin="2143" end="2212">
+    <text>The rough and hairy stem is branched in the upper part in wild plants</text>
+    <mainVerb begin="2171" end="2179">branched</mainVerb>
+    <mainReferent begin="2163" end="2167">stem</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_43" begin="2213" end="2265">
+    <text>but is usually unbranched in domesticated cultivars.</text>
+    <mainVerb begin="2228" end="2238">unbranched</mainVerb>
+    <mainReferent begin="2163" end="2167">stem</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_44" begin="2267" end="2317">
+    <text>The petiolate leaves are dentate and often sticky.</text>
+    <mainVerb begin="2281" end="2287">leaves</mainVerb>
+    <mainReferent begin="2271" end="2280">petiolate</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_45" begin="2318" end="2377">
+    <text>The lower leaves are opposite, ovate or often heart-shaped.</text>
+    <mainVerb begin="2335" end="2338">are</mainVerb>
+    <mainReferent begin="2328" end="2334">leaves</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_46" begin="2378" end="2422">
+    <text>The upper leaves are alternate and narrower.</text>
+    <mainVerb begin="2395" end="2398">are</mainVerb>
+    <mainReferent begin="2388" end="2394">leaves</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_47" begin="2424" end="2437">
+    <text>They bear one</text>
+    <mainVerb begin="2429" end="2433">bear</mainVerb>
+    <mainReferent begin="2424" end="2428">They</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_48" begin="2438" end="2584">
+    <text>or several to many wide, terminal capitula (flower heads), with bright yellow ray florets at the outside and yellow or maroon disc florets inside.</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_49" begin="2585" end="2643">
+    <text>Several ornamental cultivars have red-colored ray florets;</text>
+    <mainVerb begin="2614" end="2618">have</mainVerb>
+    <mainReferent begin="2604" end="2613">cultivars</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_50" begin="2644" end="2691">
+    <text>all of them stem from a single original mutant.</text>
+    <mainVerb begin="2656" end="2660">stem</mainVerb>
+    <mainReferent begin="2644" end="2647">all</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_51" begin="2692" end="2754">
+    <text>During growth, sunflowers tilt during the day to face the sun,</text>
+    <mainVerb begin="2718" end="2722">tilt</mainVerb>
+    <mainReferent begin="2707" end="2717">sunflowers</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_52" begin="2755" end="2763">
+    <text>but stop</text>
+    <mainVerb begin="2759" end="2763">stop</mainVerb>
+    <mainReferent begin="2707" end="2717">sunflowers</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_sunflower.txt_53" begin="2764" end="2789">
+    <text>once they begin blooming.</text>
+    <mainVerb begin="2774" end="2779">begin</mainVerb>
+    <mainReferent begin="2769" end="2773">they</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+</document>

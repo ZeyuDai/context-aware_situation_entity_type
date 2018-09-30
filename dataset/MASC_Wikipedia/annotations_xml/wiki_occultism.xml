@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="wiki_occultism.txt_1" begin="0" end="101">
+    <text>The occult (from the Latin word occultus "clandestine, hidden, secret") is "knowledge of the hidden".</text>
+    <mainVerb begin="72" end="74">is</mainVerb>
+    <mainReferent begin="4" end="10">occult</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_2" begin="102" end="174">
+    <text>In common English usage, occult refers to "knowledge of the paranormal",</text>
+    <mainVerb begin="134" end="140">refers</mainVerb>
+    <mainReferent begin="127" end="133">occult</mainReferent>
+    <annotation annotator="gold" seType="GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_3" begin="175" end="251">
+    <text>as opposed to "knowledge of the measurable", usually referred to as science.</text>
+    <mainVerb begin="228" end="236">referred</mainVerb>
+    <annotation annotator="gold" seType="GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_4" begin="252" end="297">
+    <text>The term is sometimes taken to mean knowledge</text>
+    <mainVerb begin="274" end="279">taken</mainVerb>
+    <mainReferent begin="256" end="260">term</mainReferent>
+    <annotation annotator="gold" seType="GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_5" begin="298" end="337">
+    <text>that "is meant only for certain people"</text>
+    <mainVerb begin="307" end="312">meant</mainVerb>
+    <mainReferent begin="298" end="302">that</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_6" begin="338" end="368">
+    <text>or that "must be kept hidden",</text>
+    <mainVerb begin="355" end="359">kept</mainVerb>
+    <mainReferent begin="288" end="297">knowledge</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC:HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_7" begin="369" end="456">
+    <text>but for most practicing occultists it is simply the study of a deeper spiritual reality</text>
+    <mainVerb begin="407" end="409">is</mainVerb>
+    <mainReferent begin="404" end="406">it</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_8" begin="457" end="515">
+    <text>that extends beyond pure reason and the physical sciences.</text>
+    <mainVerb begin="462" end="469">extends</mainVerb>
+    <mainReferent begin="449" end="456">reality</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_9" begin="516" end="573">
+    <text>The terms esoteric and arcane have very similar meanings,</text>
+    <mainVerb begin="546" end="550">have</mainVerb>
+    <mainReferent begin="520" end="525">terms</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_10" begin="574" end="631">
+    <text>and in most contexts the three terms are interchangeable.</text>
+    <mainVerb begin="611" end="614">are</mainVerb>
+    <mainReferent begin="605" end="610">terms</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_11" begin="633" end="723">
+    <text>It also describes a number of magical organizations or orders, the teachings and practices</text>
+    <mainVerb begin="641" end="650">describes</mainVerb>
+    <mainReferent begin="633" end="635">It</mainReferent>
+    <annotation annotator="gold" seType="GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_12" begin="724" end="846">
+    <text>taught by them, and to a large body of current and historical literature and spiritual philosophy related to this subject.</text>
+    <mainVerb begin="724" end="730">taught</mainVerb>
+    <mainReferent begin="700" end="709">teachings</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_13" begin="848" end="861">
+    <text>==Occultism==</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_14" begin="863" end="906">
+    <text>Occultism is the study of occult practices,</text>
+    <mainVerb begin="873" end="875">is</mainVerb>
+    <mainReferent begin="926" end="933">limited</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_15" begin="907" end="1030">
+    <text>including (but not limited to) magic, alchemy, extra-sensory perception, astrology, spiritualism, religion, and divination.</text>
+    <mainVerb begin="907" end="916">including</mainVerb>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_16" begin="1031" end="1236">
+    <text>Interpretation of occultism and its concepts can be found in the belief structures of philosophies and religions such as Chaos magic, Gnosticism, Hermeticism, Theosophy, Wicca, Thelema and modern paganism.</text>
+    <mainVerb begin="1083" end="1088">found</mainVerb>
+    <mainReferent begin="1031" end="1045">Interpretation</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_17" begin="1237" end="1295">
+    <text>A broad definition is offered by Nicholas Goodrick-Clarke:</text>
+    <mainVerb begin="1259" end="1266">offered</mainVerb>
+    <mainReferent begin="1245" end="1255">definition</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_18" begin="1297" end="1396">
+    <text>From the 15th to 17th century, these ideas that are alternatively described as Western esotericism,</text>
+    <mainVerb begin="1363" end="1372">described</mainVerb>
+    <mainReferent begin="1334" end="1339">ideas</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_19" begin="1397" end="1569">
+    <text>which had a revival from about 1770 onwards, due to a renewed desire for mystery, an interest in the Middle Ages and a romantic "reaction to the rationalist Enlightenment".</text>
+    <mainVerb begin="1403" end="1406">had</mainVerb>
+    <mainReferent begin="1384" end="1395">esotericism</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_20" begin="1570" end="1681">
+    <text>Alchemy was common among important seventeenth-century scientists, such as Isaac Newton, and Gottfried Leibniz.</text>
+    <mainVerb begin="1578" end="1581">was</mainVerb>
+    <mainReferent begin="1570" end="1577">Alchemy</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_21" begin="1682" end="1757">
+    <text>Newton was even accused of introducing occult agencies into natural science</text>
+    <mainVerb begin="1698" end="1705">accused</mainVerb>
+    <mainReferent begin="1682" end="1688">Newton</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_22" begin="1758" end="1834">
+    <text>when he postulated gravity as a force capable of acting over vast distances.</text>
+    <mainVerb begin="1766" end="1776">postulated</mainVerb>
+    <mainReferent begin="1763" end="1765">he</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_23" begin="1835" end="1946">
+    <text>"By the eighteenth century these unorthodox religious and philosophical concerns were well-defined as 'occult',</text>
+    <mainVerb begin="1921" end="1933">well-defined</mainVerb>
+    <mainReferent begin="1907" end="1915">concerns</mainReferent>
+    <annotation annotator="gold" seType="CANNOT_DECIDE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_24" begin="1947" end="2038">
+    <text>inasmuch as they lay on the outermost fringe of accepted forms of knowledge and discourse".</text>
+    <mainVerb begin="1964" end="1967">lay</mainVerb>
+    <mainReferent begin="1959" end="1963">they</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_25" begin="2039" end="2058">
+    <text>They were, however,</text>
+    <mainVerb begin="2044" end="2048">were</mainVerb>
+    <mainReferent begin="2039" end="2043">They</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_26" begin="2059" end="2097">
+    <text>preserved by antiquarians and mystics.</text>
+    <annotation annotator="gold" seType="CANNOT_DECIDE" mainReferentGenericity="CANNOT_DECIDE" habituality="CANNOT_DECIDE" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_27" begin="2099" end="2158">
+    <text>Based on his research into the modern German occult revival</text>
+    <mainVerb begin="2099" end="2104">Based</mainVerb>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_28" begin="2159" end="2248">
+    <text>(1890–1910), Goodrick-Clarke puts forward a thesis on the driving force behind occultism.</text>
+    <mainVerb begin="2188" end="2192">puts</mainVerb>
+    <mainReferent begin="2172" end="2187">Goodrick-Clarke</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_29" begin="2249" end="2404">
+    <text>Behind its many varied forms apparently lies a uniform function, "a strong desire to reconcile the findings of modern natural science with a religious view</text>
+    <mainVerb begin="2289" end="2293">lies</mainVerb>
+    <mainReferent begin="2272" end="2277">forms</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_30" begin="2405" end="2485">
+    <text>that could restore man to a position of centrality and dignity in the universe".</text>
+    <mainVerb begin="2416" end="2423">restore</mainVerb>
+    <mainReferent begin="2400" end="2404">view</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_31" begin="2486" end="2603">
+    <text>Since that time many authors have emphasized a syncretic approach by drawing parallels between different disciplines.</text>
+    <mainVerb begin="2520" end="2530">emphasized</mainVerb>
+    <mainReferent begin="2507" end="2514">authors</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC:EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC:EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_32" begin="2605" end="2631">
+    <text>==Science and the occult==</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_33" begin="2632" end="2719">
+    <text>To the occultist, occultism is conceived of as the study of the inner nature of things,</text>
+    <mainVerb begin="2663" end="2672">conceived</mainVerb>
+    <mainReferent begin="2650" end="2659">occultism</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_34" begin="2720" end="2759">
+    <text>as opposed to the outer characteristics</text>
+    <mainVerb begin="2723" end="2730">opposed</mainVerb>
+    <mainReferent begin="2712" end="2718">things</mainReferent>
+    <annotation annotator="gold" seType="CANNOT_DECIDE" mainReferentGenericity="CANNOT_DECIDE" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_35" begin="2760" end="2788">
+    <text>that are studied by science.</text>
+    <mainVerb begin="2769" end="2776">studied</mainVerb>
+    <mainReferent begin="2744" end="2759">characteristics</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_36" begin="2789" end="2882">
+    <text>The German philosopher Arthur Schopenhauer designates this "inner nature" with the term Will,</text>
+    <mainVerb begin="2832" end="2842">designates</mainVerb>
+    <mainReferent begin="2819" end="2831">Schopenhauer</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_37" begin="2883" end="2895">
+    <text>and suggests</text>
+    <mainVerb begin="2887" end="2895">suggests</mainVerb>
+    <mainReferent begin="2819" end="2831">Schopenhauer</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="REPORT:EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_38" begin="2896" end="3132">
+    <text>that science and mathematics are unable to penetrate beyond the relationship between one thing and another in order to explain the "inner nature" of the thing itself, independent of any external causal relationships with other "things".</text>
+    <mainVerb begin="2925" end="2928">are</mainVerb>
+    <mainReferent begin="2913" end="2924">mathematics</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="PROPOSITION:ABSTRACT_ENTITY:GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="PROPOSITION:ABSTRACT_ENTITY:GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_39" begin="3133" end="3284">
+    <text>Schopenhauer also points towards this inherently relativistic nature of mathematics and conventional science in his formulation of the "World as Will".</text>
+    <mainVerb begin="3151" end="3157">points</mainVerb>
+    <mainReferent begin="3133" end="3145">Schopenhauer</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_40" begin="3285" end="3407">
+    <text>By defining a thing solely in terms of its external relationships or effects we only find its external or explicit nature.</text>
+    <mainVerb begin="3370" end="3374">find</mainVerb>
+    <mainReferent begin="3362" end="3364">we</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_41" begin="3408" end="3492">
+    <text>Occultism, on the other hand, is concerned with the nature of the "thing-in-itself".</text>
+    <mainVerb begin="3438" end="3440">is</mainVerb>
+    <mainReferent begin="3408" end="3417">Occultism</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_42" begin="3493" end="3556">
+    <text>This is often accomplished through direct perceptual awareness,</text>
+    <mainVerb begin="3507" end="3519">accomplished</mainVerb>
+    <mainReferent begin="3493" end="3497">This</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_43" begin="3557" end="3576">
+    <text>known as mysticism.</text>
+    <mainVerb begin="3557" end="3562">known</mainVerb>
+    <mainReferent begin="3546" end="3555">awareness</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_44" begin="3578" end="3648">
+    <text>From the scientific perspective, occultism is regarded as unscientific</text>
+    <mainVerb begin="3624" end="3632">regarded</mainVerb>
+    <mainReferent begin="3611" end="3620">occultism</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_45" begin="3649" end="3723">
+    <text>as it does not make use of the standard scientific method to obtain facts.</text>
+    <mainVerb begin="3664" end="3668">make</mainVerb>
+    <mainReferent begin="3652" end="3654">it</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_46" begin="3725" end="3747">
+    <text>===Occult qualities===</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_47" begin="3748" end="3779">
+    <text>Occult qualities are properties</text>
+    <mainVerb begin="3765" end="3768">are</mainVerb>
+    <mainReferent begin="3726" end="3727">=</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_48" begin="3780" end="3814">
+    <text>that have no rational explanation;</text>
+    <mainVerb begin="3785" end="3789">have</mainVerb>
+    <mainReferent begin="3769" end="3779">properties</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_49" begin="3815" end="3891">
+    <text>in the Middle Ages, for example, magnetism was considered an occult quality.</text>
+    <mainVerb begin="3862" end="3872">considered</mainVerb>
+    <mainReferent begin="3848" end="3857">magnetism</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_50" begin="3892" end="3946">
+    <text>Newton's contemporaries severely criticized his theory</text>
+    <mainVerb begin="3925" end="3935">criticized</mainVerb>
+    <mainReferent begin="3901" end="3915">contemporaries</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_51" begin="3947" end="4015">
+    <text>that gravity was effected through "action at a distance", as occult.</text>
+    <mainVerb begin="3964" end="3972">effected</mainVerb>
+    <mainReferent begin="3952" end="3959">gravity</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="PROPOSITION:ABSTRACT_ENTITY:GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_52" begin="4017" end="4044">
+    <text>==Religion and the occult==</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_53" begin="4045" end="4169">
+    <text>Some religions and sects enthusiastically embrace occultism as an integral esoteric aspect of mystical religious experience.</text>
+    <mainVerb begin="4087" end="4094">embrace</mainVerb>
+    <mainReferent begin="4050" end="4059">religions</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_54" begin="4170" end="4245">
+    <text>This attitude is common within Wicca and many other modern pagan religions.</text>
+    <mainVerb begin="4184" end="4186">is</mainVerb>
+    <mainReferent begin="4175" end="4183">attitude</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_55" begin="4246" end="4326">
+    <text>Some other religious denominations disapprove of occultism in most or all forms.</text>
+    <mainVerb begin="4281" end="4291">disapprove</mainVerb>
+    <mainReferent begin="4267" end="4280">denominations</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_56" begin="4327" end="4396">
+    <text>They may view the occult as being anything supernatural or paranormal</text>
+    <mainVerb begin="4336" end="4340">view</mainVerb>
+    <mainReferent begin="4327" end="4331">They</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_57" begin="4397" end="4436">
+    <text>which is not achieved by or through God</text>
+    <mainVerb begin="4410" end="4418">achieved</mainVerb>
+    <mainReferent begin="4361" end="4369">anything</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_58" begin="4437" end="4483">
+    <text>(as defined by those religious denominations),</text>
+    <mainVerb begin="4441" end="4448">defined</mainVerb>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_59" begin="4484" end="4547">
+    <text>and is therefore the work of an opposing and malevolent entity.</text>
+    <mainVerb begin="4488" end="4490">is</mainVerb>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_60" begin="4548" end="4599">
+    <text>The word has negative connotations for many people,</text>
+    <mainVerb begin="4557" end="4560">has</mainVerb>
+    <mainReferent begin="4552" end="4556">word</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_61" begin="4600" end="4721">
+    <text>and while certain practices considered by some to be "occult" are also found within mainstream religions, in this context</text>
+    <mainVerb begin="4671" end="4676">found</mainVerb>
+    <mainReferent begin="4618" end="4627">practices</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_62" begin="4722" end="4754">
+    <text>the term "occult" is rarely used</text>
+    <mainVerb begin="4750" end="4754">used</mainVerb>
+    <mainReferent begin="4552" end="4556">word</mainReferent>
+    <annotation annotator="gold" seType="GENERALIZING_SENTENCE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_63" begin="4755" end="4800">
+    <text>and is sometimes substituted with "esoteric".</text>
+    <mainVerb begin="4772" end="4783">substituted</mainVerb>
+    <mainReferent begin="4732" end="4738">occult</mainReferent>
+    <annotation annotator="gold" seType="GENERALIZING_SENTENCE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_64" begin="4802" end="4823">
+    <text>===Christian views===</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_65" begin="4824" end="4892">
+    <text>Christian authorities have generally regarded occultism as heretical</text>
+    <mainVerb begin="4861" end="4869">regarded</mainVerb>
+    <mainReferent begin="4803" end="4804">=</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC:EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_66" begin="4893" end="5042">
+    <text>whenever they met this: from early Christian times, in the form of gnosticism, to late Renaissance times, in the form of various occult philosophies.</text>
+    <mainVerb begin="4907" end="4910">met</mainVerb>
+    <mainReferent begin="4902" end="4906">they</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_67" begin="5043" end="5087">
+    <text>Though there is a Christian occult tradition</text>
+    <mainVerb begin="5056" end="5058">is</mainVerb>
+    <mainReferent begin="5078" end="5087">tradition</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_68" begin="5088" end="5133">
+    <text>that goes back at least to Renaissance times,</text>
+    <mainVerb begin="5093" end="5097">goes</mainVerb>
+    <mainReferent begin="5078" end="5087">tradition</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_69" begin="5134" end="5188">
+    <text>when Marsilio Ficino developed a Christian Hermeticism</text>
+    <mainVerb begin="5155" end="5164">developed</mainVerb>
+    <mainReferent begin="5148" end="5154">Ficino</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_70" begin="5189" end="5254">
+    <text>and Pico della Mirandola developed a Christian form of Kabbalism,</text>
+    <mainVerb begin="5214" end="5223">developed</mainVerb>
+    <mainReferent begin="5204" end="5213">Mirandola</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_71" begin="5255" end="5317">
+    <text>mainstream Christianity has always resisted occult influences,</text>
+    <mainVerb begin="5290" end="5298">resisted</mainVerb>
+    <mainReferent begin="5266" end="5278">Christianity</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC:EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_72" begin="5318" end="5328">
+    <text>which are:</text>
+    <mainVerb begin="5324" end="5327">are</mainVerb>
+    <mainReferent begin="5306" end="5316">influences</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_73" begin="5329" end="5423">
+    <text>* Monistic in contrast to Christian dualistic beliefs of a separation between body and spirit;</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_74" begin="5425" end="5542">
+    <text>* Gnostic i.e. involving the acquisition of secret knowledge rather than based on scripture and open church tradition</text>
+    <mainVerb begin="5440" end="5449">involving</mainVerb>
+    <mainReferent begin="5435" end="5439">i.e.</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_75" begin="5543" end="5614">
+    <text>* Seen as involving practices such as divination and calling on spirits</text>
+    <mainVerb begin="5553" end="5562">involving</mainVerb>
+    <mainReferent begin="5266" end="5278">Christianity</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERALIZING_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="NON-GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_76" begin="5615" end="5647">
+    <text>which are forbidden in the Bible</text>
+    <mainVerb begin="5625" end="5634">forbidden</mainVerb>
+    <mainReferent begin="5607" end="5614">spirits</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_77" begin="5648" end="5744">
+    <text>* Not monotheistic, frequently asserting a gradation of human souls between mortals and God; and</text>
+    <mainVerb begin="5679" end="5688">asserting</mainVerb>
+    <mainReferent begin="5553" end="5562">involving</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_78" begin="5746" end="5789">
+    <text>* Sometimes not even theistic in character.</text>
+    <mainVerb begin="5746" end="5747">*</mainVerb>
+    <mainReferent begin="5266" end="5278">Christianity</mainReferent>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_79" begin="5791" end="5808">
+    <text>===Hindu views===</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_80" begin="5809" end="5865">
+    <text>Tantra, literally meaning "formula", "method", or "way",</text>
+    <mainVerb begin="5827" end="5834">meaning</mainVerb>
+    <mainReferent begin="5809" end="5815">Tantra</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_81" begin="5866" end="5940">
+    <text>(parallel to the Chinese Tao, which also means "the way" or "the method"),</text>
+    <mainVerb begin="5867" end="5875">parallel</mainVerb>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_82" begin="5941" end="6091">
+    <text>and also having the secondary meaning of "loom", "thread", or "warp and woof", is the name scholars give to a style of religious ritual and meditation</text>
+    <mainVerb begin="6020" end="6022">is</mainVerb>
+    <mainReferent begin="5991" end="5997">thread</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_83" begin="6092" end="6255">
+    <text>that arose in medieval India no later than the fifth century CE, and which came to influence all forms of Asian religious expression to a greater or lesser degree.</text>
+    <mainVerb begin="6097" end="6102">arose</mainVerb>
+    <mainReferent begin="6051" end="6056">style</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_84" begin="6256" end="6316">
+    <text>Tantra is at the same time a method of psychoanalysis, a way</text>
+    <mainVerb begin="6263" end="6265">is</mainVerb>
+    <mainReferent begin="6256" end="6262">Tantra</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_85" begin="6317" end="6369">
+    <text>of integrating the body, mind, and spirit, and a way</text>
+    <mainVerb begin="6320" end="6331">integrating</mainVerb>
+    <mainReferent begin="6313" end="6316">way</mainReferent>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_86" begin="6370" end="6387">
+    <text>of using the mind</text>
+    <mainVerb begin="6373" end="6378">using</mainVerb>
+    <mainReferent begin="6366" end="6369">way</mainReferent>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_87" begin="6388" end="6474">
+    <text>or will to cause change in one's external situations and circumstances, hence "magic".</text>
+    <mainVerb begin="6399" end="6404">cause</mainVerb>
+    <mainReferent begin="6383" end="6387">mind</mainReferent>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_88" begin="6475" end="6550">
+    <text>It includes amongst its various branches a variety of ritualistic practices</text>
+    <mainVerb begin="6478" end="6486">includes</mainVerb>
+    <mainReferent begin="6475" end="6477">It</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_89" begin="6551" end="6637">
+    <text>ranging from visualisation exercises and the chanting of mantras to elaborate rituals.</text>
+    <mainVerb begin="6551" end="6558">ranging</mainVerb>
+    <mainReferent begin="6541" end="6550">practices</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_90" begin="6638" end="6776">
+    <text>Alchemy, astrology, herbalism, yogic practices, sex magic, and trance also together form the multifaceted and multilevel nature of Tantra.</text>
+    <mainVerb begin="6722" end="6726">form</mainVerb>
+    <mainReferent begin="6701" end="6707">trance</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="HABITUAL" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_91" begin="6777" end="6841">
+    <text>Yantra, literally: "instrument" or "tool" are geometric diagrams</text>
+    <mainVerb begin="6819" end="6822">are</mainVerb>
+    <mainReferent begin="6797" end="6807">instrument</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_92" begin="6842" end="6932">
+    <text>considered to be the subtle or finer representation of the psychological or natural powers</text>
+    <mainVerb begin="6842" end="6852">considered</mainVerb>
+    <mainReferent begin="6833" end="6841">diagrams</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_93" begin="6933" end="7026">
+    <text>that are the deities, the proper use of which would result in the yantra becoming "activated"</text>
+    <mainVerb begin="6938" end="6941">are</mainVerb>
+    <mainReferent begin="6879" end="6893">representation</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_94" begin="7027" end="7155">
+    <text>and infused with the particular powers and capacities of the said deity, for the practitioner or adept to put to his or her use.</text>
+    <mainVerb begin="7031" end="7038">infused</mainVerb>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="C" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_95" begin="7157" end="7210">
+    <text>Occult concepts have existed in the Vedic stream too.</text>
+    <mainVerb begin="7178" end="7185">existed</mainVerb>
+    <mainReferent begin="7164" end="7172">concepts</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_96" begin="7211" end="7313">
+    <text>The Atharva Veda, representing an independent tradition markedly different from the other three Vedas,</text>
+    <mainVerb begin="7229" end="7241">representing</mainVerb>
+    <mainReferent begin="7331" end="7339">parallel</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_97" begin="7314" end="7397">
+    <text>is a rich source parallel to the Vedic traditions of the Rig, Sam, and Yajur Vedas,</text>
+    <mainVerb begin="7314" end="7316">is</mainVerb>
+    <mainReferent begin="7223" end="7227">Veda</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_98" begin="7398" end="7488">
+    <text>containing detailed descriptions of various kinds of magical rituals for different results</text>
+    <mainVerb begin="7398" end="7408">containing</mainVerb>
+    <mainReferent begin="7331" end="7339">parallel</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="wiki_occultism.txt_99" begin="7489" end="7584">
+    <text>ranging from punishing enemies, to acquisition of wealth, health, long life, or a good harvest.</text>
+    <mainVerb begin="7489" end="7496">ranging</mainVerb>
+    <mainReferent begin="7481" end="7488">results</mainReferent>
+    <annotation annotator="gold" seType="GENERIC_SENTENCE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="C" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="GENERIC_SENTENCE:GENERAL_STATIVE" mainReferentGenericity="GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+</document>

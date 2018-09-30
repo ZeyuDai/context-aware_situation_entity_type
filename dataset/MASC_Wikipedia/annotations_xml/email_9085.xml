@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+  <segment instanceid="email_9085.txt_1" begin="0" end="56">
+    <text>Message-ID: &lt;1697917.1075852651136.JavaMail.evans@thyme&gt;</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_2" begin="57" end="100">
+    <text>Date: Tue, 17 Jul 2001 16:09:15 -0700 (PDT)</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_3" begin="101" end="121">
+    <text>From: bg8862@aol.com</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_4" begin="122" end="149">
+    <text>To: jeff.skilling@enron.com</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_5" begin="150" end="195">
+    <text>Subject: Tom DeLay CA Aug Dinner &amp; Golf event</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_6" begin="196" end="228">
+    <text>Cc: joannie.williamson@enron.com</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_7" begin="229" end="246">
+    <text>Mime-Version: 1.0</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_8" begin="247" end="289">
+    <text>Content-Type: text/plain; charset=us-ascii</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_9" begin="290" end="321">
+    <text>Content-Transfer-Encoding: 7bit</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_10" begin="322" end="355">
+    <text>Bcc: joannie.williamson@enron.com</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_11" begin="357" end="396">
+    <text>Jeff, I spoke to Joannie this afternoon</text>
+    <mainVerb begin="365" end="370">spoke</mainVerb>
+    <mainReferent begin="0" end="10">Message-ID</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="D" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="email_9085.txt_12" begin="397" end="447">
+    <text>and asked for your e-mail to send this invitation.</text>
+    <mainVerb begin="401" end="406">asked</mainVerb>
+    <mainReferent begin="363" end="364">I</mainReferent>
+    <annotation annotator="gold" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="D" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="EVENT" mainReferentGenericity="NON-GENERIC" habituality="EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="email_9085.txt_13" begin="448" end="493">
+    <text>Here is the initial information on the event.</text>
+    <mainVerb begin="453" end="455">is</mainVerb>
+    <mainReferent begin="468" end="479">information</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="email_9085.txt_14" begin="494" end="564">
+    <text>We are expecting additional members of Congress to attend both events.</text>
+    <mainVerb begin="501" end="510">expecting</mainVerb>
+    <mainReferent begin="494" end="496">We</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="email_9085.txt_15" begin="565" end="622">
+    <text>If you have any questions or comment, please let me know.</text>
+    <mainVerb begin="603" end="609">please</mainVerb>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="IMPERATIVE" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="email_9085.txt_16" begin="623" end="650">
+    <text>I have attached a word doc.</text>
+    <mainVerb begin="630" end="638">attached</mainVerb>
+    <mainReferent begin="623" end="624">I</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC:EPISODIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="email_9085.txt_17" begin="651" end="659">
+    <text>as well:</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_18" begin="662" end="758">
+    <text>Tom DeLay / ARMPAC Guest Speaker - David Horowitz Four Seasons Aviara - Dinner &amp; Golf Tournament</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_19" begin="761" end="787">
+    <text>The event will take place:</text>
+    <mainVerb begin="776" end="780">take</mainVerb>
+    <mainReferent begin="765" end="770">event</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="email_9085.txt_20" begin="788" end="853">
+    <text>Wednesday, August 15 Four Seasons Aviara (Northern San Diego, CA)</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_21" begin="854" end="926">
+    <text>Golf Lunch will start at 11am Tee times at 12:15pm An informal reception</text>
+    <mainVerb begin="902" end="904">pm</mainVerb>
+    <mainReferent begin="822" end="828">Aviara</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="email_9085.txt_22" begin="927" end="958">
+    <text>afterwards Limited to 40 people</text>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="email_9085.txt_23" begin="959" end="1104">
+    <text>Cost is $5k per person Dinner Reception 6 to 6:45pm Dinner 7 to 8:30pm Speakers Tom DeLay and David Horowitz $1,500 per person, $2,500 per couple</text>
+    <mainVerb begin="964" end="966">is</mainVerb>
+    <mainReferent begin="938" end="945">Limited</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="email_9085.txt_24" begin="1105" end="1170">
+    <text>There are four levels of sponsorship: $100K, $50k, $25k and $15k.</text>
+    <mainVerb begin="1111" end="1114">are</mainVerb>
+    <mainReferent begin="781" end="786">place</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="STATIVE"/>
+  </segment>
+  <segment instanceid="email_9085.txt_25" begin="1171" end="1297">
+    <text>Contribution levels will also transfer from the dinner and/or Golf Tournament to the ARMPAC "contributor sponsorship program."</text>
+    <mainVerb begin="1201" end="1209">transfer</mainVerb>
+    <mainReferent begin="1184" end="1190">levels</mainReferent>
+    <annotation annotator="gold" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="A" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="D" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+    <annotation annotator="B" seType="STATE" mainReferentGenericity="NON-GENERIC" habituality="STATIC" mainVerbAspectualClass="DYNAMIC"/>
+  </segment>
+  <segment instanceid="email_9085.txt_26" begin="1300" end="1431">
+    <text>Bill Gowan Election Day Consulting, LLC 1947 Camino Vida Roble, suite 104 Carlsbad, CA 92009 760 929.1203 electiondayconsulting.com</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_27" begin="1434" end="1455">
+    <text>- Aug 15 Golf dinner.</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+  <segment instanceid="email_9085.txt_28" begin="1455" end="1458">
+    <text>doc</text>
+    <annotation annotator="gold" mainReferentGenericity="CANNOT_DECIDE" mainVerbAspectualClass="CANNOT_DECIDE"/>
+    <annotation annotator="A" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="D" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+    <annotation annotator="B" seType="" mainReferentGenericity="" habituality="" mainVerbAspectualClass=""/>
+  </segment>
+</document>
