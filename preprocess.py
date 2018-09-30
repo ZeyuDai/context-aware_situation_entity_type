@@ -55,7 +55,7 @@ def sentence_startwith_connective(sentence):
 	return False
 
 def store_sentence_pos_ner_dict():
-	with open('../resource/masc_sentence_pos_ner_dict.pkl','w') as f:
+	with open('./resource/masc_sentence_pos_ner_dict.pkl','w') as f:
 		cPickle.dump(sentence_pos_ner_dict,f)
 		f.close()
 
@@ -63,14 +63,14 @@ def store_sentence_pos_ner_dict():
 model = gensim.models.Word2Vec.load_word2vec_format('./resource/GoogleNews-vectors-negative300.bin', binary=True)
 #model = gensim.models.Word2Vec.load_word2vec_format('./resource/glove.840B.300d.w2vformat.txt', binary=False)
 
-'''stanford_dir = '../resource/stanford-postagger-2016-10-31/'
+'''stanford_dir = './resource/stanford-postagger-2016-10-31/'
 modelfile = stanford_dir + 'models/english-left3words-distsim.tagger'
 jarfile = stanford_dir + 'stanford-postagger.jar'
 pos_tager = StanfordPOSTagger(modelfile, jarfile, encoding='utf8')
 #print pos_tager.tag("Brack Obama lives in New York .".split())
 st = StanfordTokenizer(jarfile, encoding='utf8')
 #print st.tokenize('Among 33 men who worked closely with the substance, 28 have died -- more than three times the expected number. Four of the five surviving workers have asbestos-related diseases, including three with recently diagnosed cancer.')
-stanford_dir = '../resource/stanford-ner-2016-10-31/'
+stanford_dir = './resource/stanford-ner-2016-10-31/'
 modelfile = stanford_dir + 'classifiers/english.muc.7class.distsim.crf.ser.gz'
 jarfile = stanford_dir + 'stanford-ner.jar'
 ner_tager = StanfordNERTagger(modelfile, jarfile, encoding='utf8')
