@@ -18,7 +18,7 @@ To run the code:
 
 --------------------------------------------------------------------
 About Preprocessing:
-1. Download both Google [word2vec](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) and preprocessed [POS/NER file](https://drive.google.com/open?id=1tEhQghyVF7qeIbuwgkAYkbsGpTItPp64) (You can also generate them by yourself by downloading Standford [CoreNLP toolkit](https://stanfordnlp.github.io/CoreNLP/) and put them in ./data/resource); put them in folder ./data/resource/ <br/>
+1. Download both Google [word2vec](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) and preprocessed [POS/NER file](https://drive.google.com/open?id=1tEhQghyVF7qeIbuwgkAYkbsGpTItPp64) (You can also generate them by yourself by downloading Standford [CoreNLP toolkit](https://stanfordnlp.github.io/CoreNLP/) and put them in ./resource); put them in folder ./resource/ <br/>
 2. The MASC+Wiki dataset raw files are already in the ./dataset/MASC_Wikipedia <br/>
 3. run ```python preprocess.py``` <br/> 
 
