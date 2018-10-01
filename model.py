@@ -109,12 +109,12 @@ class SoftAttention(nn.Module):
 		self.attn_history = []
 
 '''
-two word-level & sentence-level LSTM encoder
+two word-level & clause-level LSTM encoder
 input_size: word embedding dimension
 hidden_size: output dimension of lstm (when hidden_size <= 0, use input_size as default)
 sentence_embedding_type: ['last','mean','sum','max'] 
- 						decide how to calculate sentence embedding representation vector from a list of words representation vectors
-sentence_zero_inithidden: whether to reset initial word_hidden to zero for each sentence's word_level_lstm calculation	
+ 						decide how to calculate clause embedding representation vector from a list of words representation vectors
+sentence_zero_inithidden: whether to reset initial word_hidden to zero for each clause's word_level_lstm calculation	
 '''
 class Encoder(nn.Module):
 	def __init__(self, input_size, hidden_size = 0, batch_size = 1, num_layers = 1, dropout = 0, bidirectional = True, batch_first = True, sentence_embedding_type = 'last', sentence_zero_inithidden = False):
@@ -299,8 +299,8 @@ one word-level LSTM encoder
 input_size: word embedding dimension
 hidden_size: output dimension of lstm (when hidden_size <= 0, use input_size as default)
 sentence_embedding_type: ['last','mean','sum','max'] 
- 						decide how to calculate sentence embedding representation vector from a list of words representation vectors
-sentence_zero_inithidden: whether to reset initial word_hidden to zero for each sentence's word_level_lstm calculation	
+ 						decide how to calculate clause embedding representation vector from a list of words representation vectors
+sentence_zero_inithidden: whether to reset initial word_hidden to zero for each clause's word_level_lstm calculation	
 '''
 class LSTMEncoder(nn.Module):
 	def __init__(self, input_size, hidden_size = 0, batch_size = 1, num_layers = 1, dropout = 0, bidirectional = True, batch_first = True, sentence_embedding_type = 'last', sentence_zero_inithidden = False):
@@ -429,9 +429,6 @@ class LSTMEncoder(nn.Module):
 
 
 
-'''
-Concatenate sentence pair representation generated from two word-level & sentence-level LSTM encoder and make prediction directly (without decoder lstm)
-'''
 class BaseSequenceLabeling(nn.Module):
 	def __init__(self, input_size, output_size, hidden_size = 0, sentence_embedding_type = 'last', sentence_zero_inithidden = False, attention = None, batch_size = 1, num_layers = 1, dropout = 0, bidirectional = True, batch_first = True):
 		super(BaseSequenceLabeling, self).__init__()
@@ -486,9 +483,6 @@ class BaseSequenceLabeling(nn.Module):
 
 
 
-'''
-Concatenate sentence pair representation generated from one word-level LSTM encoder and make prediction directly (without decoder lstm)
-'''
 class BaseSequenceLabeling_LSTMEncoder(nn.Module):
 	def __init__(self, input_size, output_size, hidden_size = 0, sentence_embedding_type = 'last', sentence_zero_inithidden = False, attention = None, batch_size = 1, num_layers = 1, dropout = 0, bidirectional = True, batch_first = True):
 		super(BaseSequenceLabeling_LSTMEncoder, self).__init__()
@@ -534,9 +528,6 @@ class BaseSequenceLabeling_LSTMEncoder(nn.Module):
 
 
 
-'''
-Concatenate sentence pair representation and make prediction with CRF
-'''
 class BiLSTMCRF(nn.Module):
 	def __init__(self, input_size, output_size, hidden_size = 0, sentence_embedding_type = 'last', sentence_zero_inithidden = False, attention = None, crf_decode_method = 'viterbi', loss_function  = 'likelihood', batch_size = 1, num_layers = 1, dropout = 0, bidirectional = True, batch_first = True):
 		super(BiLSTMCRF, self).__init__()
@@ -625,59 +616,3 @@ class BiLSTMCRF(nn.Module):
 			else:
 				tensor.append(-1)
 		return tensor
-
-
-
-def load_data():
-    print 'Loading Data...'
-    outfile = open(os.path.join(os.getcwd(),'data/masc_paragraph_addposnerembedding.pt'),'r')
-    pdtb_data = torch.load(outfile)
-    outfile.close()
-
-    train_X,train_Y,test_X,test_Y = pdtb_data['train_X'] ,pdtb_data['train_Y'],pdtb_data['test_X'],pdtb_data['test_Y']
-
-    train_X_eos_list = train_X[2]
-    train_X_label_length_list = train_X[1]
-    train_X = train_X[0]
-
-    test_X_eos_list = test_X[2]
-    test_X_label_length_list = test_X[1]
-    test_X = test_X[0]
-
-    return train_X,train_X_label_length_list,train_X_eos_list,train_Y,test_X,test_X_label_length_list,test_X_eos_list,test_Y
-
-
-if __name__ == "__main__":
-	train_X,train_X_label_length_list,train_X_eos_list,train_Y,test_X,test_X_label_length_list,test_X_eos_list,test_Y = load_data()
-
-	print len(train_X),len(test_X)
-	print len(train_X)+len(test_X)
-
-	sample_x = train_X[9]
-	sample_eos_list = train_X_eos_list[9]
-	sample_y = train_Y[9]
-	print sample_x.size(),sample_y.size(),sample_eos_list,sample_y
-
-	print 'Test Encoder...'
-	for sentence_embedding_type in ['last','max','mean','sum']:
-		encoder = Encoder(sample_x.size(-1), sentence_embedding_type = sentence_embedding_type)
-		word_level_output,sentence_level_output,word_hidden,sentence_hidden = encoder(sample_x,sample_eos_list)
-		print word_level_output.size(),sentence_level_output.size()
-
-	print 'Test BaseSequenceLabeling...'
-	baseseqlabeling = BaseSequenceLabeling(sample_x.size(-1), sample_y.size(-1))
-	output = baseseqlabeling(sample_x,sample_eos_list)
-	print output.size()
-
-	print 'Test BaseSequenceLabeling_LSTMEncoder...'
-	baseseqlabeling = BaseSequenceLabeling_LSTMEncoder(sample_x.size(-1), sample_y.size(-1))
-	output = baseseqlabeling(sample_x,sample_eos_list)
-	print output.size()
-
-	print 'Test BiLSTMCRF...'
-	for loss_function in ['likelihood']:
-		for crf_decode_method in ['viterbi']:
-			bilstmcrf = BiLSTMCRF(sample_x.size(-1), sample_y.size(-1), crf_decode_method = crf_decode_method, loss_function  = loss_function, attention = 'dot')
-			output = bilstmcrf(sample_x,sample_eos_list,sample_y)
-			print output.size()
-			print bilstmcrf.get_loss(sample_x,sample_eos_list,sample_y)
