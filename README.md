@@ -1,5 +1,5 @@
 # context_aware_situation_entity
-Code and Data for the EMNLP2018 paper ["Building Context-aware Clause Representations for Situation Entity Type Classification"](https://arxiv.org/abs/1809.07483)
+Code and Data for the EMNLP 2018 paper ["Building Context-aware Clause Representations for Situation Entity Type Classification"](http://www.aclweb.org/anthology/D18-1368)
 ```
 @inproceedings{dai2018situation,
   title={Building Context-aware Clause Representations for Situation Entity Type Classification},
